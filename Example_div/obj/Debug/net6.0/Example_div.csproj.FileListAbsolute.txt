@@ -1,0 +1,15 @@
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\bin\Debug\net6.0\Example_div.exe
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\bin\Debug\net6.0\Example_div.deps.json
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\bin\Debug\net6.0\Example_div.runtimeconfig.json
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\bin\Debug\net6.0\Example_div.dll
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\bin\Debug\net6.0\Example_div.pdb
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\obj\Debug\net6.0\Example_div.csproj.AssemblyReference.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\obj\Debug\net6.0\Example_div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\obj\Debug\net6.0\Example_div.AssemblyInfoInputs.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\obj\Debug\net6.0\Example_div.AssemblyInfo.cs
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\obj\Debug\net6.0\Example_div.csproj.CoreCompileInputs.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\obj\Debug\net6.0\Example_div.dll
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\obj\Debug\net6.0\refint\Example_div.dll
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\obj\Debug\net6.0\Example_div.pdb
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\obj\Debug\net6.0\Example_div.genruntimeconfig.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_div\obj\Debug\net6.0\ref\Example_div.dll
