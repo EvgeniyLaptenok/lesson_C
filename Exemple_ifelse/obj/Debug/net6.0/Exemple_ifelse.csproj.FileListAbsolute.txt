@@ -1,0 +1,15 @@
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\obj\Debug\net6.0\Exemple_ifelse.csproj.AssemblyReference.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\obj\Debug\net6.0\Exemple_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\obj\Debug\net6.0\Exemple_ifelse.AssemblyInfoInputs.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\obj\Debug\net6.0\Exemple_ifelse.AssemblyInfo.cs
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\obj\Debug\net6.0\Exemple_ifelse.csproj.CoreCompileInputs.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\bin\Debug\net6.0\Exemple_ifelse.exe
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\bin\Debug\net6.0\Exemple_ifelse.deps.json
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\bin\Debug\net6.0\Exemple_ifelse.runtimeconfig.json
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\bin\Debug\net6.0\Exemple_ifelse.dll
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\bin\Debug\net6.0\Exemple_ifelse.pdb
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\obj\Debug\net6.0\Exemple_ifelse.dll
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\obj\Debug\net6.0\refint\Exemple_ifelse.dll
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\obj\Debug\net6.0\Exemple_ifelse.pdb
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\obj\Debug\net6.0\Exemple_ifelse.genruntimeconfig.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Exemple_ifelse\obj\Debug\net6.0\ref\Exemple_ifelse.dll
