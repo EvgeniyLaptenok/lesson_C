@@ -1,0 +1,15 @@
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\bin\Debug\net6.0\Example_base.exe
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\bin\Debug\net6.0\Example_base.deps.json
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\bin\Debug\net6.0\Example_base.runtimeconfig.json
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\bin\Debug\net6.0\Example_base.dll
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\bin\Debug\net6.0\Example_base.pdb
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\obj\Debug\net6.0\Example_base.csproj.AssemblyReference.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\obj\Debug\net6.0\Example_base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\obj\Debug\net6.0\Example_base.AssemblyInfoInputs.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\obj\Debug\net6.0\Example_base.AssemblyInfo.cs
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\obj\Debug\net6.0\Example_base.csproj.CoreCompileInputs.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\obj\Debug\net6.0\Example_base.dll
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\obj\Debug\net6.0\refint\Example_base.dll
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\obj\Debug\net6.0\Example_base.pdb
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\obj\Debug\net6.0\Example_base.genruntimeconfig.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_base\obj\Debug\net6.0\ref\Example_base.dll
