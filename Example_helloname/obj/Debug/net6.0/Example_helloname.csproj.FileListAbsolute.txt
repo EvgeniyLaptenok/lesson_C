@@ -1,0 +1,15 @@
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\obj\Debug\net6.0\Example_helloname.csproj.AssemblyReference.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\obj\Debug\net6.0\Example_helloname.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\obj\Debug\net6.0\Example_helloname.AssemblyInfoInputs.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\obj\Debug\net6.0\Example_helloname.AssemblyInfo.cs
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\obj\Debug\net6.0\Example_helloname.csproj.CoreCompileInputs.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\bin\Debug\net6.0\Example_helloname.exe
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\bin\Debug\net6.0\Example_helloname.deps.json
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\bin\Debug\net6.0\Example_helloname.runtimeconfig.json
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\bin\Debug\net6.0\Example_helloname.dll
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\bin\Debug\net6.0\Example_helloname.pdb
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\obj\Debug\net6.0\Example_helloname.dll
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\obj\Debug\net6.0\refint\Example_helloname.dll
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\obj\Debug\net6.0\Example_helloname.pdb
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\obj\Debug\net6.0\Example_helloname.genruntimeconfig.cache
+C:\Users\ЕВГЕНИЙ\Desktop\lesson_C\Exemple\Example_helloname\obj\Debug\net6.0\ref\Example_helloname.dll
